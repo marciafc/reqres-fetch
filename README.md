@@ -5,4 +5,4 @@
 
 ## Demo
 
-- Hospedada no Heroku. Acessar [aqui]()
+- Hospedada no Netlify. Acessar [aqui](https://wizardly-noyce-69eb8c.netlify.app/)
